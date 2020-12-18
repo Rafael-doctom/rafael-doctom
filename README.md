@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Rafael-doctom/rafael-doctom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/57225298/102656953-8ab2d980-4153-11eb-92c7-a2a7babc1c2b.png" min-width="400px" max-width="400px" width="300px" align="right"  alt="Computador "> <br>
+👋🏻 My Name is **Rafael** and I am **Front-end Developer**
 
-Here are some ideas to get you started:
+🤖 Skils: **HTML5, CSS3, JavaScript, Bootstrap, Wordpress.** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 IDE: **Visual Studio.**
+
+🗃 Tools: **Netlify, Git e GitHub.**
+
+
+
+
+
+ <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-pinto-da-silva/" /></a> <a href="https://api.whatsapp.com/send?phone=5515996563234" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996563234"/></a>
