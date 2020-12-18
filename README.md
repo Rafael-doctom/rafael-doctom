@@ -6,7 +6,7 @@
 
 👨‍💻 IDE: **Visual Studio.**
 
-🗃 Tools: **Netlify, Git e GitHub.**
+🗃 Tools: **Netlify, Git  GitHub.**
 
 
 
