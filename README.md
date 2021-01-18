@@ -6,7 +6,7 @@
 
 👨‍💻 IDE: **Visual Studio.**
 
-🗃 Tools: **Netlify, Git,  GitHub, Canvas. Whimsical and MockFlow**
+🗃 Tools: **Netlify, Git,  GitHub, Canvas, Whimsical and MockFlow**
 
 
 
