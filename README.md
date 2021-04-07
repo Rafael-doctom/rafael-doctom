@@ -4,7 +4,7 @@
 
 🤖 Skils: **HTML5, CSS3, MySql, JavaScript, Bootstrap, Wordpress and React.** 
 
-👨‍ Learning: **React.**
+👨‍ Learning: **React, NodeJS.**
 
 💻 IDE: **Visual Studio, CodePen.**
 
