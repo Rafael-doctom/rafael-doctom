@@ -8,7 +8,7 @@
 
 💻 IDE: **Visual Studio.**
 
-🗃 Tools: **Netlify, Git,  GitHub, Canvas, Whimsical.**
+🗃 Tools: **Netlify, Git,  GitHub, Canvas, Whimsical, Gimp.**
 
 
 
