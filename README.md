@@ -8,7 +8,7 @@
 
 💻 IDE: **Visual Studio, CodePen**
 
-🗃 Tools: **Netlify, Git,  GitHub, Vercel, Canvas, Gimp  and InksCape.**
+🗃 Tools: **Netlify, Git,  GitHub, Vercel, Canvas and InksCape.**
 
 
 
