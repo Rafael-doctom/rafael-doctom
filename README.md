@@ -6,7 +6,7 @@
 
 👨‍ Learning: **React, Next.JS and NodeJS.**
 
-💻 IDE: **Visual Studio, CodePen**
+💻 IDE: **Visual Studio**
 
 🗃 Tools: **Netlify, Git,  GitHub, Vercel, Canvas and InksCape.**
 
