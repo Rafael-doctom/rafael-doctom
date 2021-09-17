@@ -19,4 +19,10 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996563234"/></a>
 
 
-[![Rafael's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=rafael-doctom&theme=dark&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/Rafael-doctom)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-doctom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ![Snake animation](https://github.com/TassioSales/TassioSales/blob/output/github-contribution-grid-snake.svg)
