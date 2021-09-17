@@ -17,3 +17,6 @@
  <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-pinto-da-silva/" /></a> <a href="https://api.whatsapp.com/send?phone=5515996563234" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996563234"/></a>
+
+
+[![Rafael's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=rafael-doctom&theme=dark&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/Rafael-doctom)
