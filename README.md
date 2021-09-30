@@ -4,7 +4,7 @@
 
 🤖 Skils: **HTML5, CSS3, MySql, JavaScript, Bootstrap, Wordpress, React/Next.JS, Tailwind CSS and Styled-components.** 
 
-👨‍ Learning: **React, Next.JS and NodeJS.**
+👨‍ Learning: **React, Next.JS .**
 
 💻 IDE: **Visual Studio**
 
