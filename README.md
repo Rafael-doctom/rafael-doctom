@@ -8,6 +8,8 @@
 
 📌 Languages: Html5, Css3, JavaScript.
 
+💡Learning: Python, Django.
+
 📚 Libs: React.Js, Styled Components.
 
 💾 Framework: Boostrap, Next.Js, React Bootstrap, Tailwind CSS.
