@@ -31,13 +31,12 @@
  
  
  <div>
+  <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
+   <img src="https://user-images.githubusercontent.com/57225298/136476848-18728a5c-fd5c-420d-bcb9-64195b67f71e.png" />
+ </a>
  
   <a href="https://www.freecodecamp.org/rafael_pinto">
    <img src="https://miro.medium.com/max/400/1*QD92-ToXuIfd-SyzchNrZA.png" />
-</a>
-  
- <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
-   <img src="https://user-images.githubusercontent.com/57225298/136476749-2df12c71-688d-4399-b857-75c481113255.png" />
  </a>
 </div>
  
