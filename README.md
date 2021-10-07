@@ -28,8 +28,20 @@
  <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-pinto-da-silva/" /></a> <a href="https://api.whatsapp.com/send?phone=5515996563234" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996563234"/></a>
-
-
+ 
+ 
+ <div>
+ 
+  <a href="https://www.freecodecamp.org/rafael_pinto">
+   <img src="https://miro.medium.com/max/400/1*QD92-ToXuIfd-SyzchNrZA.png" />
+</a>
+  
+ <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
+   <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG_rUOmQjzleQ/company-logo_200_200/0/1568560623067?e=2159024400&v=beta&t=UD5QsArg5DtjIDtukASQ2r8StjOx16YTbRwrm23IoV0" />
+ </a>
+</div>
+ 
+ 
 <div>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafael-doctom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&layout=compact&langs_count=7&theme=dark"/>
