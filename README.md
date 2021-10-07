@@ -31,7 +31,11 @@
   
 <!--  <a href="https://www.frontendmentor.io/profile/Rafael-doctom" > 👇 FrontEndMentor </a> 
  <a href="https://www.freecodecamp.org/rafael_pinto" > 👇 FreeCodeCamp Mentor </a>  -->
-
+ 
+<div>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafael-doctom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
  
  <div>
@@ -45,11 +49,7 @@
  </a>
 </div>
  
- 
-<div>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafael-doctom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 <!--   ![Snake animation](https://github.com/TassioSales/TassioSales/blob/output/github-contribution-grid-snake.svg)
  -->
