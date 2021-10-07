@@ -37,7 +37,7 @@
 </a>
   
  <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
-   <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG_rUOmQjzleQ/company-logo_200_200/0/1568560623067?e=2159024400&v=beta&t=UD5QsArg5DtjIDtukASQ2r8StjOx16YTbRwrm23IoV0" />
+   <img src="https://miro.medium.com/max/1400/0*cfYEyKU7fH1Vz37c.png" />
  </a>
 </div>
  
