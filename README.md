@@ -37,7 +37,7 @@
 </a>
   
  <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
-   <img src="https://miro.medium.com/max/1400/0*cfYEyKU7fH1Vz37c.png" />
+   <img src="https://user-images.githubusercontent.com/57225298/136476749-2df12c71-688d-4399-b857-75c481113255.png" />
  </a>
 </div>
  
