@@ -8,7 +8,7 @@
 
 📌 Languages: Html5, Css3, JavaScript.
 
-💡Learning: Python, Django.
+💡Learning: Python, Django and C++.
 
 📚 Libs: React.Js, Styled Components.
 
