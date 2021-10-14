@@ -22,7 +22,16 @@
 
 🎁 Extras: Git, Github.
 
+<div class="tech"> 
+ <h5>Technologies</h5>
+</div>
+<div class="image">
+   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width:"50px" height="50px"/>
+    <img src="https://logospng.org/download/css-3/logo-css-3-768.png" width:"50px" height="50px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width:"50px" height="50px"/>
+   
 
+ </div>
 
 
  <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" alt="Linkedin">
