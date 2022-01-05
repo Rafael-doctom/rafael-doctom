@@ -6,7 +6,7 @@
   <a href="https://rafael-doctom.github.io/dataRecruiter/"> Você é recrutador? Acesse. 
   </a>
 </div>
-
+<br>
 👇 Technologies:
 
 📌 Languages: Html5, Css3, JavaScript.
