@@ -1,8 +1,15 @@
-
-<!-- <img src="https://user-images.githubusercontent.com/57225298/102656953-8ab2d980-4153-11eb-92c7-a2a7babc1c2b.png" min-width="400px" max-width="400px" width="300 px" align="right"  alt="Computador "> <br> -->
 👋🏻 Hello!! My Name is **Rafael**, have 20 Years and I am **Front-end Developer**
 
 ▪️Professional career in development in the area of technology (T.I). Front-end, development and entrepreneurship are my main focuses. Currently, I am majoring in systems analysis and development, attending the 2rd semester. - at Unopar.
+
+<div style="display: flex; align: center" >
+  <div>
+    <h3>Você é recrutador?</h3> 
+  </div> 
+  <div> 
+    <a href="https://rafael-doctom.github.io/dataRecruiter/"> Acesse </a>
+  </div>
+</div>
 
 👇 Technologies:
 
@@ -23,7 +30,7 @@
 🎁 Extras: Git, Github.
 
 <div class="tech"> 
- <h5>Technologies</h5>
+ <h5>Technologies</h5>  
 </div>
 <div class="image">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width:"50px" height="50px"/>
