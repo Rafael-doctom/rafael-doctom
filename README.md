@@ -2,19 +2,9 @@
 
 ▪️Professional career in development in the area of technology (T.I). Front-end, development and entrepreneurship are my main focuses. Currently, I am majoring in systems analysis and development, attending the 2rd semester. - at Unopar.
 
-<<<<<<< HEAD
 <div>
   <a href="https://rafael-doctom.github.io/dataRecruiter/"> Você é recrutador? Acesse. 
   </a>
-=======
-<div style="display: flex; align: center" >
-  <div>
-    <h3>Você é recrutador?</h3> 
-  </div> 
-  <div> 
-    <a href="https://rafael-doctom.github.io/dataRecruiter/"> Acesse </a>
-  </div>
->>>>>>> 51e495eeb8624e0f0a9afff24cb7fe83df3a8b40
 </div>
 
 👇 Technologies:
