@@ -55,10 +55,10 @@
   
 <div>
   <a href="https://www.frontendmentor.io/profile/Rafael-doctom">
-  <img height="240em" width="420em" src="https://user-images.githubusercontent.com/57225298/148294286-c2300b2c-403f-46b8-a92b-deb6fbb23566.png"/>
+  <img height="260em" width="420em" src="https://user-images.githubusercontent.com/57225298/148294286-c2300b2c-403f-46b8-a92b-deb6fbb23566.png"/>
   </a>
     <a href="https://www.freecodecamp.org/rafael_pinto">
-  <img height="240em" width="420em"src="https://miro.medium.com/max/400/1*QD92-ToXuIfd-SyzchNrZA.png"/>
+  <img height="260em" width="420em"src="https://miro.medium.com/max/400/1*QD92-ToXuIfd-SyzchNrZA.png"/>
   </a>
 </div>
 
