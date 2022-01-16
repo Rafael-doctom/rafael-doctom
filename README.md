@@ -31,12 +31,16 @@
 </div>
 <div class="image">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width:"50px" height="50px"/>
-     <img src="https://logospng.org/download/css-3/logo-css-3-768.png" width:"50px" height="50px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width:"50px" height="50px"/>
-     <img src="https://user-images.githubusercontent.com/57225298/137393344-697106d2-7eca-4109-98f9-613a179d842c.png" width:"50px" height="50px"/>
-     <img src="https://user-images.githubusercontent.com/57225298/137393792-5fe41289-4622-4b42-bef7-79360c437f04.png" width:"50px" height="50px"/>
- <img src="https://user-images.githubusercontent.com/57225298/137394014-4c7b2869-a8bf-467d-b055-3e48d4e4b7a3.png" width:"50px" height="50px"/>
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width:"50px" height="50px"/>
+    <img src="https://logospng.org/download/css-3/logo-css-3-768.png" width:"50px" height="50px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width:"50px" height="50px"/>
+   <img src="https://user-images.githubusercontent.com/57225298/137393344-697106d2-7eca-4109-98f9-613a179d842c.png" width:"50px" height="50px"/>
+   <img src="https://user-images.githubusercontent.com/57225298/137393792-5fe41289-4622-4b42-bef7-79360c437f04.png" width:"50px" height="50px"/>
+   <img src="https://user-images.githubusercontent.com/57225298/137394014-4c7b2869-a8bf-467d-b055-3e48d4e4b7a3.png" width:"50px" height="50px"/>
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width:"50px" height="50px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width:"50px" height="50px"/>
+   <img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width:"50px" height="50px"/>
+   <img src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" width:"50px" height="50px"/>
+   <img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" width:"50px" height="50px"/>
  </div>
 
 <div>
