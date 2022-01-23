@@ -20,7 +20,7 @@
 
 🔌 Infra: Linux.
 
-🔧 CMS: WordPress, Unbounce.
+🔧 CMS: WordPress, Unbounce, Elementor.
 
 🛠️ Tools: Facebook Business, Google Trends, Google Ads, Netlify, Vercel.
 
