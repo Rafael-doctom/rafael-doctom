@@ -11,7 +11,7 @@
 👇 Technologies:
 <br/> 
 
-📌 Languages: Html5, Css3, JavaScript.
+📌 Languages: Html5, Css3, JavaScript and Node.Js.
 
 💡Learning: Python, Django, TypeScript, ReactNative and C++.
 
