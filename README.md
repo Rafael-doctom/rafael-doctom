@@ -2,6 +2,14 @@
 
 ▪️Professional career in development in the area of technology (T.I). Front-end, development and entrepreneurship are my main focuses. Currently, I am majoring in systems analysis and development, attending the 2rd semester. - at Unopar.
 
+▪️ Linkedin: <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" style="color:black"> 
+  https://www.linkedin.com/in/rafael-pinto-da-silva/
+  </a>
+  </br>
+▪️ Youtube: <a href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
+https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
+  
+ 
 <div>
   <a href="https://rafael-doctom.github.io/toRecruiter/" style="color:black"> Você é recrutador? Acesse. 
   </a>
