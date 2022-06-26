@@ -14,25 +14,22 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   <a href="https://rafael-doctom.github.io/toRecruiter/" style="color:black"> Você é recrutador? Acesse. 
   </a>
 </div>
-
-<br/> 
-👇 Technologies:
 <br/> 
 
 📌 Languages: Html5, Css3, JavaScript and Node.Js.
-
+<br/> 
 💡Learning: Python, Django, TypeScript, ReactNative and C++.
-
+<br/> 
 📚 Libs: React.Js, Styled Components.
-
+<br/> 
 💾 Framework: Boostrap, Next.Js, React Bootstrap, Tailwind CSS.
-
+<br/> 
 🔌 Infra: Linux.
-
+<br/> 
 🔧 CMS: WordPress, Unbounce, Elementor.
-
+<br/> 
 🛠️ Tools: Facebook Business, Google Trends, Google Ads, Netlify, Vercel.
-
+<br/> 
 🎁 Extras: Git, Github.
 
 <div class="tech"> 
