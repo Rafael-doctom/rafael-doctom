@@ -20,17 +20,11 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
 <br/> 
 
 📌 Languages: Html5, Css3, JavaScript and Node.Js.
-
 💡Learning: Python, Django, TypeScript, ReactNative and C++.
-
 📚 Libs: React.Js, Styled Components.
-
 💾 Framework: Boostrap, Next.Js, React Bootstrap, Tailwind CSS.
-
 🔌 Infra: Linux.
-
 🔧 CMS: WordPress, Unbounce, Elementor.
-
 🛠️ Tools: Facebook Business, Google Trends, Google Ads, Netlify, Vercel.
 
 🎁 Extras: Git, Github.
