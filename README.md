@@ -11,7 +11,7 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   
  
 <div>
-  <a href="https://rafael-doctom.github.io/toRecruiter/" style="color:black"> Você é recrutador? Acesse. 
+  <a href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
   </a>
 </div>
 <br/> 
