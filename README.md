@@ -48,12 +48,10 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-doctom&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rafael-doctom&icon=4&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rafael-doctom&label=Visualizac%C3%B5es%20de%20perfil&color=11&icon=0&pretty=true" />
+</a>
 
 
