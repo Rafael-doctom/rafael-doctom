@@ -8,16 +8,16 @@
 
 ▪️Professional career in development in the area of technology (T.I). Front-end, development and entrepreneurship are my main focuses. Currently, I am majoring in systems analysis and development, attending the 2rd semester. - at Unopar.
 
-▪️ Linkedin: <a href="https://www.linkedin.com/in/rafael-pinto-da-silva/" style="color:black"> 
+▪️ Linkedin: <a target="blank" href="https://www.linkedin.com/in/rafael-pinto-da-silva/" style="color:black"> 
   https://www.linkedin.com/in/rafael-pinto-da-silva/
   </a>
   </br>
-▪️ Youtube: <a href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
+▪️ Youtube: <a target="blank" href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
 https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   
  
 <div>
-  <a href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
+  <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
   </a>
 </div>
 <br/> 
@@ -50,7 +50,7 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
 
 
 ---
-<a href="https://visitcount.itsvg.in">
+<a target="blank" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Rafael-doctom&label=Visualizac%C3%B5es%20de%20perfil&color=11&icon=0&pretty=true" />
 </a>
 
