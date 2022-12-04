@@ -20,30 +20,13 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
   </a>
 </div>
-<br/> 
 
-📌 Languages: Html5, Css3, JavaScript and Node.Js.
-<br/> 
-💡Learning: Python, Django, TypeScript, ReactNative and C++.
-<br/> 
-📚 Libs: React.Js, Styled Components.
-<br/> 
-💾 Framework: Boostrap, Next.Js, React Bootstrap, Tailwind CSS.
-<br/> 
-🔌 Infra: Linux.
-<br/> 
-🔧 CMS: WordPress, Unbounce, Elementor.
-<br/> 
-🛠️ Tools: Facebook Business, Google Trends, Google Ads, Netlify, Vercel.
-<br/> 
-🎁 Extras: Git, Github.
+
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rafaelpds.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pds/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Rafael_pds#6598)
-
-
 
 
 
