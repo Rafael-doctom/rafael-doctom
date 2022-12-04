@@ -5,7 +5,8 @@
 
 <!-- next -->
 👋🏻 Hello!! My Name is **Rafael**, have 20 Years and I am **Front-end Developer**
-
+<br/>
+▪️Professional career in development in the area of technology (T.I). Front-end, development and entrepreneurship are my main focuses. Currently, I am majoring in systems analysis and development, attending the 2rd semester. - at Unopar.
 
 ▪️ Linkedin: <a target="blank" href="https://www.linkedin.com/in/rafael-pinto-da-silva/" style="color:black"> 
   https://www.linkedin.com/in/rafael-pinto-da-silva/
