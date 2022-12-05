@@ -15,7 +15,12 @@
 ▪️ Youtube: <a target="blank" href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
 https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   </br>
-  ▪️ freeCodeCamp: <a target="blank" href="https://www.freecodecamp.org/rafael_pinto" style="color:black"> 
+  ▪️ FreeCodeCamp:
+  <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
+[https://www.freecodecamp.org/rafael_pinto](https://www.frontendmentor.io/profile/Rafael-doctom)  </a>
+ </br>
+  ▪️ FrontEndMentor:
+  <a target="blank" href="https://www.freecodecamp.org/rafael_pinto" style="color:black"> 
 https://www.freecodecamp.org/rafael_pinto  </a>
  
 <div>
