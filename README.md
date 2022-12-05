@@ -17,11 +17,11 @@ https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
   </br>
   ▪️ FreeCodeCamp:
   <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
-[https://www.freecodecamp.org/rafael_pinto](https://www.frontendmentor.io/profile/Rafael-doctom)  </a>
+https://www.freecodecamp.org/rafael_pinto  </a>
  </br>
   ▪️ FrontEndMentor:
-  <a target="blank" href="https://www.freecodecamp.org/rafael_pinto" style="color:black"> 
-https://www.freecodecamp.org/rafael_pinto  </a>
+  <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
+https://www.frontendmentor.io/profile/Rafael-doctom  </a>
  
 <div>
   <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
