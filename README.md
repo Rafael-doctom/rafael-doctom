@@ -3,8 +3,8 @@
   
 
 
-▪️ Linkedin: <a target="blank" href="https://www.linkedin.com/in/rafael-pinto-da-silva/" style="color:black"> 
-  https://www.linkedin.com/in/rafael-pinto-da-silva/
+▪️ Linkedin: <a target="blank" href="[https://www.linkedin.com/in/rafael-pinto-da-silva/](https://www.linkedin.com/in/rafael-pds)" style="color:black"> 
+  [https://www.linkedin.com/in/rafael-pds/](https://www.linkedin.com/in/rafael-pds/)
   </a>
   </br>
 ▪️ Youtube: <a target="blank" href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
