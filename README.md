@@ -28,7 +28,7 @@ https://www.frontendmentor.io/profile/Rafael-doctom  </a>
 *toMath: https://bit.ly/40Bk2D8   </br>
 *Bot find books:   </br>
 *toJobs: https://bit.ly/3N9Lm8D   </br>
-*weather-forecast:   </br> 
+*weather-forecast:  https://bit.ly/428klXd </br> 
 *spaceToday:   </br>
 *convert CV to PDF:   </br>
 *creator CV:   </br>
