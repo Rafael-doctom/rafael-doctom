@@ -1,8 +1,3 @@
-
-
-  
-
-
 ▪️ Linkedin: <a target="blank" href="[https://www.linkedin.com/in/rafael-pinto-da-silva/](https://www.linkedin.com/in/rafael-pds)" style="color:black"> 
   [https://www.linkedin.com/in/rafael-pds/](https://www.linkedin.com/in/rafael-pds/)
   </a>
@@ -14,7 +9,6 @@ https://www.freecodecamp.org/rafael_pinto  </a>
   ▪️ FrontEndMentor:
   <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
 https://www.frontendmentor.io/profile/Rafael-doctom  </a>
- 
 <div>
   <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
   </a>
