@@ -7,9 +7,6 @@
   [https://www.linkedin.com/in/rafael-pds/](https://www.linkedin.com/in/rafael-pds/)
   </a>
   </br>
-▪️ Youtube: <a target="blank" href="https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw" style="color:black"> 
-https://www.youtube.com/channel/UCKi48jR2UEM5LymVy6iooFw  </a>
-  </br>  
   ▪️ FreeCodeCamp:
   <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
 https://www.freecodecamp.org/rafael_pinto  </a>
