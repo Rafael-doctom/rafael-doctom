@@ -15,7 +15,7 @@ https://www.frontendmentor.io/profile/Rafael-doctom  </a>
 </div>
 
 <hr/>
-*conversor de textos: https://bit.ly/3LqCslZ   </br>
+*text converter: https://bit.ly/3LqCslZ   </br>
 *toMath: https://bit.ly/40Bk2D8   </br>
 *Bot find books:   </br>
 *toJobs: https://bit.ly/3N9Lm8D   </br>
@@ -23,7 +23,7 @@ https://www.frontendmentor.io/profile/Rafael-doctom  </a>
 *spaceToday:   </br>
 *convert CV to PDF:   </br>
 *creator CV:   </br>
-*recursos: https://bit.ly/41zFwld   </br>
+*resources: https://bit.ly/41zFwld   </br>
 *dom: https://bit.ly/3La7Qnw   </br>
 *toRecruiter: https://bit.ly/3ArSMfX   </br>
 *daysEnglish: https://bit.ly/3mXq5Eq   </br>
