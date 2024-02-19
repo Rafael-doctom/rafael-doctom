@@ -10,7 +10,7 @@ https://www.freecodecamp.org/rafael_pinto  </a>
   <a target="blank" href="https://www.frontendmentor.io/profile/Rafael-doctom" style="color:black"> 
 https://www.frontendmentor.io/profile/Rafael-doctom  </a>
 <div>
-  <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Você é recrutador? Acesse. 
+  <a target="blank" href="https://torecruiter.netlify.app/" style="color:black"> Are you a recruiter? Access. 
   </a>
 </div>
 
