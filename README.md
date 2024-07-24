@@ -1,10 +1,9 @@
 
 
-
+<strong>Projetos:</strong> </br>
+*Conversor de Textos: https://conversordetexto.netlify.app/  </br> 
 <hr/>
-*Conversor de Textos: https://conversordetexto.netlify.app/   </br>
-
-Canais: 
+<strong>Canais:</strong> </br> 
 *LinkedIn: https://conversordetexto.netlify.app/   </br>
 *FreeCodeCamp: https://www.frontendmentor.io/profile/Rafael-doctom   </br>
 *FrontEndMentor: https://www.frontendmentor.io/profile/Rafael-doctom    </br>
