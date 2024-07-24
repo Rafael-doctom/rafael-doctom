@@ -10,7 +10,9 @@
 
 | REDES SOCIAIS           | URL                                                           |
 |-----------------|---------------------------------------------------------------|
-| LinkedIn        | [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin) |
+| LinkedIn        | [https://bit.ly/479aBi0](https://bit.ly/479aBi0) |
+| Instagram        | [https://bit.ly/3G9z23B](https://bit.ly/3G9z23B) |
+| Instagram        | [https://bit.ly/3G9z23B](https://bit.ly/3G9z23B) |
 | FreeCodeCamp    | [https://www.frontendmentor.io/profile/Rafael-doctom](https://www.frontendmentor.io/profile/Rafael-doctom) |
 | FrontEndMentor  | [https://www.frontendmentor.io/profile/Rafael-doctom](https://www.frontendmentor.io/profile/Rafael-doctom) |
 
