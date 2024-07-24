@@ -2,7 +2,7 @@
 |-----------------------|-----------------------------------------------|
 | Portfólio   | [https://bit.ly/rafaelpintodasilva](https://bit.ly/rafaelpintodasilva) |
 | Conversor de Textos   | [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/) |
-| Lista de Projetos     | [https://torecruiter.netlify.app/](https://torecruiter.netlify.app/)       |
+| Lista de Projetos     | [https://bit.ly/links-rps](https://bit.ly/links-rps)       |
 
 <hr/>
 
