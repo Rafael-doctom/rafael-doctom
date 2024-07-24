@@ -1,5 +1,6 @@
 | PROJETOS              | URL                                           |
 |-----------------------|-----------------------------------------------|
+| Portfólio   | [https://bit.ly/rafaelpintodasilva](https://bit.ly/rafaelpintodasilva) |
 | Conversor de Textos   | [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/) |
 | Lista de Projetos     | [https://torecruiter.netlify.app/](https://torecruiter.netlify.app/)       |
 
