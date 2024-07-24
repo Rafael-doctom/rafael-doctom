@@ -1,13 +1,18 @@
 
+<strong>Projetos:</strong></br>
+*Conversor de Textos: [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/)</br> 
+*Lista de Projetos: [https://torecruiter.netlify.app/](https://torecruiter.netlify.app/)</br>
 
-<strong>Projetos:</strong> </br>
-*Conversor de Textos: https://conversordetexto.netlify.app/  </br> 
+
 <hr/>
+
+
 <strong>Canais:</strong> </br> 
 *LinkedIn: https://conversordetexto.netlify.app/   </br>
 *FreeCodeCamp: https://www.frontendmentor.io/profile/Rafael-doctom   </br>
-*FrontEndMentor: https://www.frontendmentor.io/profile/Rafael-doctom    </br></br>
+*FrontEndMentor: https://www.frontendmentor.io/profile/Rafael-doctom    </br>
 
+<strong>Lista de Projetos:</strong>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -18,3 +23,4 @@
 </a>
 
 
+html
