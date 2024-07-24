@@ -1,18 +1,19 @@
-
-<strong>Projetos:</strong></br>
-*Conversor de Textos: [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/)</br> 
-*Lista de Projetos: [https://torecruiter.netlify.app/](https://torecruiter.netlify.app/)</br>
-
+| Projetos              | URL                                           |
+|-----------------------|-----------------------------------------------|
+| Conversor de Textos   | [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/) |
+| Lista de Projetos     | [https://torecruiter.netlify.app/](https://torecruiter.netlify.app/)       |
 
 <hr/>
 
 
-<strong>Canais:</strong> </br> 
-*LinkedIn: https://conversordetexto.netlify.app/   </br>
-*FreeCodeCamp: https://www.frontendmentor.io/profile/Rafael-doctom   </br>
-*FrontEndMentor: https://www.frontendmentor.io/profile/Rafael-doctom    </br>
 
-<strong>Lista de Projetos:</strong>
+| Rede Sociais           | URL                                                           |
+|-----------------|---------------------------------------------------------------|
+| LinkedIn        | [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin) |
+| FreeCodeCamp    | [https://www.frontendmentor.io/profile/Rafael-doctom](https://www.frontendmentor.io/profile/Rafael-doctom) |
+| FrontEndMentor  | [https://www.frontendmentor.io/profile/Rafael-doctom](https://www.frontendmentor.io/profile/Rafael-doctom) |
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-doctom&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -23,4 +24,3 @@
 </a>
 
 
-html
