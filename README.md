@@ -1,7 +1,7 @@
 | PROJETOS              | URL                                           |
 |-----------------------|-----------------------------------------------|
 | Portfólio   | [https://bit.ly/rafaelpintodasilva](https://bit.ly/rafaelpintodasilva) |
-| Conversor de Textos   | [https://conversordetexto.netlify.app/](https://conversordetexto.netlify.app/) |
+| Conversor de Textos   | [https://conversordetextos.netlify.app/](https://conversordetextos.netlify.app/) |
 | Lista de Projetos     | [https://bit.ly/links-rps](https://bit.ly/links-rps)       |
 
 <hr/>
