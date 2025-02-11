@@ -1,8 +1,8 @@
 | PROJETOS              | URL                                           |
 |-----------------------|-----------------------------------------------|
-| Portfólio   | https://rafaelpintodasilva.com/ |
-| Conversor de Textos   | https://conversordetextos.xyz/ |
-| Lista de Projetos     | https://rafaelpintodasilva.com/links/       |
+| Portfolio   | https://rafaelpintodasilva.com/ |
+| Text Converter   | https://conversordetextos.xyz/ |
+| Project List     | https://rafaelpintodasilva.com/links/       |
 
 <hr/>
 
