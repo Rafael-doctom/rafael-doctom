@@ -10,8 +10,8 @@
 
 | REDES SOCIAIS           | URL                                                           |
 |-----------------|---------------------------------------------------------------|
-| LinkedIn        | [https://bit.ly/479aBi0](https://bit.ly/479aBi0) |
-| Instagram        | [https://bit.ly/3G9z23B](https://bit.ly/3G9z23B) |
+| LinkedIn        | https://www.linkedin.com/in/rafael-pds/ |
+| Instagram        | https://www.instagram.com/rafaelpintodasilva_/ |
 
 
 
